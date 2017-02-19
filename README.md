@@ -1,5 +1,5 @@
 # artStudioWebsite
-Art Studi Website
+Art Studio Website
 An example website for an Art Studio based on boodstrap.
 
 Preview:
